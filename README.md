@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-story- 
 this is my story.....
 
@@ -14,3 +15,8 @@ burhan
 ## Chapter 3
 
 There once was a guy named gk and he went e ya e ya yooooo
+=======
+# my-story-
+poo
+burhan 
+>>>>>>> origin/main
